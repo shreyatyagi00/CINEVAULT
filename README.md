@@ -37,4 +37,4 @@ ________________________________________________________________________________
 
 
 # Live Demo
- https://movieappsin.netlify.app/
+https://cinevault-movie.vercel.app/
