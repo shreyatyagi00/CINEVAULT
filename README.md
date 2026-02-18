@@ -1,27 +1,39 @@
-# MovieApp – React Movie Explorer
+## CineVault
+____________________________________________________________________________________________________________________________
 
-MovieApp is a fully functional movie browsing web application built using React and React Router. It allows users to explore movies, search titles, view detailed movie information, and manage a favorites list that persists even after page refresh using localStorage.
+CineVault is a modern, Netflix-style movie discovery platform built using React.  
+It allows users to browse trending categories, search movies, preview details on hover, and manage a personalized favourites list.
 
+The application integrates with the OMDB API to fetch real-time movie data and provides an interactive, animated user experience.
 
-# Features
+_____________________________________________________________________________________________________________________________
 
-•  Search movies using OMDb API
-•  View detailed movie pages
-•  Add / remove movies from Favorites
-•  Favorites persist using localStorage
-•  Smooth routing with React Router
-•  Dark themed modern UI
-•  Responsive card layout
+## Features
 
+-  Real-time movie search
+-  OTT-style category rows (Trending, Comedy, Horror, Crime, Action)
+-  Hover-based animated preview panel
+-  Add / Remove movies from favourites
+-  Persistent favourites using localStorage
+-  Direct trailer search integration (YouTube)
+-  Smooth animations using Framer Motion
+-  Responsive UI built with Tailwind CSS
+-  Horizontal scroll with arrow navigation (useRef + scrollBy)
 
-# Tech Stack
+_____________________________________________________________________________________________________________________________
 
-• React (Vite)
-•	React Router DOM
-•	OMDb API
-•	JavaScript (ES6)
-•	CSS / Inline Styling
-•	LocalStorage
+## Tech Stack
+
+- React
+- React Router
+- Tailwind CSS
+- Framer Motion
+- Lucide Icons
+- OMDB API
+
+_____________________________________________________________________________________________________________________________
+ 
+
 
 
 # Live Demo
